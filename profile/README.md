@@ -4,7 +4,7 @@ It's hard to define what `AKASS Organization` is. We just wanna do splendid work
 
 Now we are providing some common services like img host, file mirrors and file hosts to those who need them.
 
-We want do more than this.
+We want to do more than this.
 
 Home page: https://www.akass.cn (written in Chinese)
 
