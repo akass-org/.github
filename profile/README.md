@@ -13,6 +13,7 @@ https://www.akass.cn (written in Chinese)
 ## How to sponse
 
 [爱发电](https://afdian.net/@akatsukiro) (Accept Alipay and Wechatpay)
+
 ~~Paypal~~ ban.
 
 ## The Founder say
