@@ -6,6 +6,8 @@ Now we are providing some common services like img host, file mirrors and file h
 
 We want to do more than this.
 
+提交管局备案中，暂停所有解析。
+
 ## Home page
 
 https://www.akass.cn (written in Chinese)
