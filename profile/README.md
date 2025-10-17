@@ -12,17 +12,7 @@ https://www.akass.cn (written in Chinese)
 
 ## How to sponse
 
-[爱发电](https://afdian.net/@akatsukiro) (Accept Alipay and Wechatpay)
-
-~~Paypal~~ ban.
-
-## The Founder say
-
-I'm Akatsukiro, the founder of Also Know As Splendid Services, or AKASS.
-
-This is the organization where I can contribute with my friends. Love it. 💖
-
-As for now, I'm just a noob, and I hope AKASS could record my steps to success. Maybe one day many years later, I can achieve myself. 
+[爱发电](https://afdian.com/a/akatsukiro) (Accept Alipay and Wechatpay)
 
 <!--
 
