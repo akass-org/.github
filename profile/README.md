@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-It's hard to define what `AKASS Organization` is. We just wanna do splendid works, but everything starts from tinny things, let's encourage mutually.
+It's hard to define who we are. We just wanna do splendid works, but everything starts from tinny things, let's encourage mutually.
 
 Now we are providing some common services like img host, file mirrors and file hosts to those who need them.
 
