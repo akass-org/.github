@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-It's hard to define who we are. We just wanna do splendid works, but everything starts from tinny things, let's encourage mutually.
+Defining who we are isn't easy. Our aspiration is to do splendid work, grounded in the belief that everything great starts from tiny things and mutual encouragement.
 
-Now we are providing some common services like img host, file mirrors and file hosts to those who need them.
+Take it easy to look around. 
 
-We want to do more than this.
+This is just the beginning. We are committed to building much more.
 
 ## Home page
 
